@@ -1,2 +1,2 @@
 # Django_MySpace
-My space journal
+My PLP Django Project
